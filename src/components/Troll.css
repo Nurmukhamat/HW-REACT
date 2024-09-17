@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.first-container {
+    border: 1px solid #eeee;
+    width: 100%;
+    height: 70px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.first-container > p {
+    margin-left: 80px;
+    margin-top: 20px;
+    font-size: large;
+}
+.second-container {
+    display: flex;
+    align-items: center;
+    border: 1px solid #eeee;
+    width: 100%;
+    height: 270px;
+    border-radius: 30px;
+}
+.second-container > img {
+    width: 200px;
+    height: 250px;
+    padding-left: 20px;
+}
+.reduce {
+    display: flex;
+}
+.product {
+    display: flex;
+    margin-top: 40px;
+    gap: 20px;
+}
+ul {
+    display: flex;
+    margin-left: 50px;
+    gap: 20px;
+}
+.sea {
+    margin-left: 30px;
+}
+ ul > li:nth-child(1) {
+    background-color: burlywood;
+    height: min-content;
+    color: burlywood;
+}
+ul > li:nth-child(2) {
+    background-color: pink;
+    height: min-content;
+    color: pink;
+}
+ul > li:nth-child(3) {
+    background-color: blue;
+    height: min-content;
+    color: blue;
+}
+ul > li:nth-child(4) {
+    background-color: black;
+    height: min-content;
+    color: black;
+}
+.beast {
+    position: relative;
+    margin-left: -306px;
+}
+
+
+.call > li:nth-child(1) {
+    height: min-content;
+    background-color: burlywood;
+    color: burlywood;
+}
+.call > li:nth-child(2) {
+    background-color: aquamarine;
+    height: min-content;
+    color: aquamarine;
+}
+.call > li:nth-child(3) {
+    background-color: yellow;
+    height: min-content;
+    color: yellow;
+}
+.call > li:nth-child(4) {
+    background-color: rgb(43, 38, 38);
+    height: min-content;
+    color: rgb(43, 38, 38);
+}
+
+.solt > li:nth-child(1) {
+    background-color: red;
+    height: min-content;
+    color: red;
+}
+.solt > li:nth-child(2) {
+    background-color: blue;
+    height: min-content;
+    color: blue;
+}
+.solt > li:nth-child(3) {
+    background-color: #fffafa;
+    height: min-content;
+    color: #fffafa;
+}
+.solt > li:nth-child(4) {
+background-color: gray;
+height: min-content;
+color: grey;
+}
