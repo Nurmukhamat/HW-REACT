@@ -1,0 +1,10 @@
+.wrapper {
+    width: 780px;
+    margin: 30px 280px;
+    background-color: #ad9be9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+  }
+  

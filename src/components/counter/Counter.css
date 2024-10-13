@@ -1,0 +1,16 @@
+h1 {
+    font-size: 48px;
+}
+.button-increment {
+    background-color:chartreuse;
+    width: min-content;
+    height: min-content;
+}
+.button-decrement {
+    background-color: red;
+    width: min-content;
+    height: min-content;
+}
+.div-container {
+    margin: 20px 450px;
+}
